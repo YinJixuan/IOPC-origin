@@ -81,11 +81,6 @@ Performance
     </div>
 """
 
-# Author: Remi Flamary <remi.flamary@polytechnique.edu>
-#         Nicolas Courty <ncourty@irisa.fr>
-#
-# License: MIT License
-
 import numpy as np
 import scipy
 import scipy.linalg
